@@ -1,0 +1,35 @@
+
+
+.container-time{
+
+
+    height:100%;
+    width: 40%;
+    color:white;
+text-align: center;
+ 
+    border-width: 5px;
+ 
+  background-image: url(/public/images/201.jpeg);
+
+
+ box-shadow: 20px 20px 10px grey;
+border-radius: 20px;
+}
+.container-time h2{
+    size: 30px;
+    color: white;
+}
+
+.container-form{
+   text-align:center;
+   
+    height: 100%;
+    width: 30%;
+    color:white;
+  background-image: url(/public/images/401.jpeg);
+    box-shadow: 20px 20px 10px grey;
+border-radius: 20px;
+
+
+}
